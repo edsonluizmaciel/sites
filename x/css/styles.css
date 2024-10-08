@@ -1,0 +1,462 @@
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+h1 {
+    font-family: Roboto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Account.png");
+
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/Twitter\ Logo.png");
+}
+
+#effects {
+    width: 35px;
+    height: 35px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Feature\ stroke\ icon.png");
+}
+
+#card {
+    padding: 8px;
+    border-bottom: #000;
+}
+#card span {
+    color:#444;
+}
+
+#card-tweet {
+    display: flex;    
+}
+
+#avatar-user{
+    width: 80px; 
+    height: 80px; 
+    margin: 8px   
+}
+
+#tweet-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#tweet-username, #tweet-time {
+    font-size: 14px;
+    color: #787878;
+    font-weight: 100;
+    font-family: Roboto;
+}
+
+
+.action {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}

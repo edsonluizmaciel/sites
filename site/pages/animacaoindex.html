@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=,, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            animation:revelar 2s infinite;
+            width: 250px;
+            height: 250px;
+            border: 2px; background-color: rgb(255, 255, 255);  
+             background-color: cadetblue
+        }
+        .menino {
+            background-color: blue;
+            animation: none; 
+        }
+         @keyframes revelar {
+             from{
+                background-color: rgb(255, 0, 157);
+             }
+               to{
+                background-color: rgb(0, 0, 124);
+            }
+         }
+    </style>
+</head>
+<body>
+    <div id="box"></div>
+    <button class="btn">menino ou menina</button>
+    <script>
+      var btn = document.querySelector(".box")
+      console.log(btn);
+    btn.aadEventListener ,"clck",() =>{
+        //mudar a cor para azul ou rosa
+        
+      }
+    </script>
+</body>
+</html>
